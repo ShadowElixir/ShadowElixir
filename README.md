@@ -2,7 +2,7 @@
 
 I'm a new developer on GitHub and I have worked on the following projects:
 
-- ShadowOS
-- VariousScripts
-- Better Discord+ Theme
-- WhatsApp Nativefier Client
+- [ShadowOS](https://github.com/ShadowElixir/ShadowOS)
+- [VariousScripts](https://github.com/ShadowElixir/VariousScripts)
+- [Better Powershell Profile](https://github.com/ShadowElixir/better-powershell-profile)
+- [WhatsApp Nativefier Client](https://github.com/ShadowElixir/WhatsApp)
