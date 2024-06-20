@@ -6,3 +6,4 @@ I'm a new developer on GitHub and I have worked on the following projects:
 - [VariousScripts](https://github.com/ShadowElixir/VariousScripts)
 - [Better Powershell Profile](https://github.com/ShadowElixir/better-powershell-profile)
 - [WhatsApp Nativefier Client](https://github.com/ShadowElixir/WhatsApp)
+- [Pacman and Apt for Windows](https://github.com/ShadowElixir/pacman-apt)
