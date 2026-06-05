@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a new developer on GitHub and I have worked on the following projects:
+I'm a developer on GitHub and I have worked on the following projects:
 
 - [PostInstall](https://github.com/ShadowElixir/PostInstall)
 - [VariousScripts](https://github.com/ShadowElixir/VariousScripts)
